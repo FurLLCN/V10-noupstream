@@ -40,22 +40,17 @@ curl 'https://你的域名/console/v1/product/18'
   "msg": "请求成功",
   "data": {
     "product": {
-      "id": 15,
-      "name": "美国弹性云服务器",
+      "id": 18,
+      "name": "美国300G高防 1核2G 500M 1IP",
       "pay_type": "recurring_prepayment",
-      "price": "29.00",
+      "price": "40.00",
       "cycle": "月",
-      "product_group_id": 6,
-      "product_group_id_first": 3,
+      "product_group_id": 5,
+      "product_group_id_first": 4,
       "plugin_custom_fields": [],
       "show": 0,
       "module": null,
-      "customfield": [],
-      "mode": "only_api",
-      "supplier_id": 1,
-      "supplier_name": "XXX",
-      "profit_type": 0,
-      "profit_percent": "0.00"
+      "customfield": []
     }
   }
 }
